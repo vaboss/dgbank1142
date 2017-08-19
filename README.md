@@ -53,11 +53,3 @@ Screenshots:
 ![Dimeshift goals](https://raw.githubusercontent.com/jeka-kiselyov/dimeshift/master/public/images/homepage/screenshots/goal.jpg?1mar16)
 
 ![Dimeshift i18n](https://raw.githubusercontent.com/jeka-kiselyov/dimeshift/master/public/images/homepage/screenshots/i18n.jpg?1mar16)
-
-License
-----
-GNU Affero GPL
-
-**Free Software, Hell Yeah!**
-
-From Slavyansk, Ukraine. With Love
